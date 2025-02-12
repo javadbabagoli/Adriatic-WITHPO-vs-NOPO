@@ -26,14 +26,21 @@ Description: Model result scenario for WITHPO used in the draft. This dataset is
 
     Format: .csv
     Description: Observation data in CSV format. This can be opened using either Excel or MATLAB for further processing and analysis.
+
+    
 .................................................................
 File Formats
 NetCDF Files (.nc): Used for storing multi-dimensional scientific data such as the model result scenarios (NOPO and WITHPO) and bathymetry.
+
+
 CSV Files (.csv): Used for storing observation data, which is a more accessible format compatible with many software tools like Excel and MATLAB.
 ................................................................
 Tools for Opening Files
+
 MATLAB: A high-level programming language and environment for numerical computation, visualization, and application development.
+
 Papanapoly: A software tool that can read and process NetCDF files, typically used for geospatial and oceanographic data.
+
 Excel: A popular spreadsheet software that can open CSV files for basic data inspection and analysis.
 
 
