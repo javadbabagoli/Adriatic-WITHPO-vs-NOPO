@@ -1,28 +1,28 @@
 This repository contains various data files used in the paper.
-................................................................
+
 Datasets
    
 1. Bathymetry
 Format: .nc (NetCDF)
 Description: Bathymetry data in NetCDF format. This file can also be opened using MATLAB or Papanapoly.
-................................................................
+
    
-2. NOPO
+3. NOPO
 Format: .nc (NetCDF)
 Description: Model result scenario for NOPO used in the draft. This dataset is provided in NetCDF format, and can be analyzed using MATLAB or Papanapoly.
-................................................................
+
    
-3. WITHPO
+4. WITHPO
 Format: .nc (NetCDF)
 Description: Model result scenario for WITHPO used in the draft. This dataset is also in NetCDF format, and can be opened with MATLAB or Papanapoly.
-................................................................
+   
 
-4. AQUA_MODIS
+5. AQUA_MODIS
 
     Format: .nc (NetCDF)
     Description: This dataset is used in the this paper. The .nc file format can be opened with MATLAB or Papanapoly for further analysis.    
- ................................................................
- 5. Observation Data
+   
+ 6. Observation Data
 
     Format: .csv
     Description: Observation data in CSV format. This can be opened using either Excel or MATLAB for further processing and analysis.
